@@ -1,2 +1,3 @@
-# kodu-khan-shop
-Built with KoDu
+# KoDu site
+
+KoDu-аар үүсгэв. `npm install && npm run dev`.
